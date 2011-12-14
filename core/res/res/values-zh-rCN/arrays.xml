@@ -27,8 +27,8 @@
     <!-- Defines the shutdown options shown in the reboot dialog. -->
     <array name="shutdown_reboot_options">
         <item>重启模式</item>
-        <item>刷机模式</item>
-        <item>引导模式</item>
+        <item>恢复模式</item>
+        <item>启动菜单</item>
     </array>
     <!-- Do not translate. -->
     <integer-array name="maps_starting_zoom">
