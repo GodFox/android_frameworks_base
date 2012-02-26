@@ -3585,6 +3585,7 @@ public final class Settings {
 
         /**
          * The TCP/IP port to run ADB on, or -1 for USB
+         * @hide
          */
         public static final String ADB_PORT = "adb_port";
 
